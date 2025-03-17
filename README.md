@@ -8,4 +8,4 @@ The main focus of the design was centered around the search. The whole applicati
 The initial feedback we recieved led us to a design that was more cohesive in nature. We reformatted the structure of the design elements and created a color pallette for parity across all pages. 
 
 Team Members:
-Noah Herd, Joon Kim, Karen Fisher, James Fischer, Pham Nguyen
+Noah Herd, Joon Kim, Karen Fisher, James Fischer, Pham Nguyen, Jacob Hilliker
