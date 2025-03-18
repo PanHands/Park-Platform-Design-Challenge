@@ -10,4 +10,4 @@ The initial feedback we recieved led us to a design that was more cohesive in na
 Overall, This mobile app will offer a thorough visual representation of park-related data, such as user reviews, accessibility features, location information, and issue reporting. Its goal is to improve the user experience by providing a user-friendly interface for park exploration and feedback submission.
 
 Team Members:
-Noah Herd, Joon Kim, Karen Fisher, James Fischer, Pham Nguyen, Jacob Hilliker
+Noah Herd, Joon Kim, Karen Fisher, James Fischer, Pham Nguyen, Jacob Hilliker.
