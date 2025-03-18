@@ -7,5 +7,7 @@ The main focus of the design was centered around the search. The whole applicati
 
 The initial feedback we recieved led us to a design that was more cohesive in nature. We reformatted the structure of the design elements and created a color pallette for parity across all pages. 
 
+Overall, This mobile park will visualize any information such as address, accessibility, and review rrate relate to the park.
+
 Team Members:
 Noah Herd, Joon Kim, Karen Fisher, James Fischer, Pham Nguyen, Jacob Hilliker
